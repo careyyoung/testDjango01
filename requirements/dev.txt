@@ -1,0 +1,4 @@
+# 导入common.txt中的依赖库,储存的是本地开发时用到的依赖库:
+-r  common.txt
+
+django-debug-toolbar==1.2

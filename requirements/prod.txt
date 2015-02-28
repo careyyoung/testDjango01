@@ -1,0 +1,2 @@
+# requirements/prod.txt 生产环境的依赖包
+-r  common.txt
